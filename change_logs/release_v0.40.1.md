@@ -39,13 +39,13 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#3113](https://github.com/derailed/k9s/issues/3113) 0.40.0 can't retain temporary view sort
-* [#3111](https://github.com/derailed/k9s/issues/3111) k9s can't describe or print YAML for HPAs in all namespaces view
-* [#2966](https://github.com/derailed/k9s/issues/2966) Go to the Contexts page and filter, contexts that are matched will be filtered ou
-* [#2962](https://github.com/derailed/k9s/issues/2962) Small colour/filtering related bug
-* [#2961](https://github.com/derailed/k9s/issues/2961) Drain node with the -disable-eviction
-* [#2958](https://github.com/derailed/k9s/issues/2958) Restart count in container view associated with the wrong container
-* [#2945](https://github.com/derailed/k9s/issues/2945) Could we add ServiceAccount Column in v1/POD view
+* [#3113](https://github.com/zloom/k9s/issues/3113) 0.40.0 can't retain temporary view sort
+* [#3111](https://github.com/zloom/k9s/issues/3111) k9s can't describe or print YAML for HPAs in all namespaces view
+* [#2966](https://github.com/zloom/k9s/issues/2966) Go to the Contexts page and filter, contexts that are matched will be filtered ou
+* [#2962](https://github.com/zloom/k9s/issues/2962) Small colour/filtering related bug
+* [#2961](https://github.com/zloom/k9s/issues/2961) Drain node with the -disable-eviction
+* [#2958](https://github.com/zloom/k9s/issues/2958) Restart count in container view associated with the wrong container
+* [#2945](https://github.com/zloom/k9s/issues/2945) Could we add ServiceAccount Column in v1/POD view
 
 ---
 
@@ -53,14 +53,14 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3094](https://github.com/derailed/k9s/pull/3094) Log in as root to the node.
-* [#3033](https://github.com/derailed/k9s/pull/3033) Skip cache invalidation on failed connection
-* [#2965](https://github.com/derailed/k9s/pull/2965) Make menu foreground style configurable through skins
-* [#2952](https://github.com/derailed/k9s/pull/2952) A modest attempt to improve the logo aesthetics
-* [#2833](https://github.com/derailed/k9s/pull/2833) allow scaling custom resource
-* [#2799](https://github.com/derailed/k9s/pull/2799) feat(app): add history navigation with [ and ], most recent command with -
-* [#2719](https://github.com/derailed/k9s/pull/2719) fix: stop table header cells from being selectable
-* [#2865](https://github.com/derailed/k9s/pull/2865) Feature/DisableAutoscroll
+* [#3094](https://github.com/zloom/k9s/pull/3094) Log in as root to the node.
+* [#3033](https://github.com/zloom/k9s/pull/3033) Skip cache invalidation on failed connection
+* [#2965](https://github.com/zloom/k9s/pull/2965) Make menu foreground style configurable through skins
+* [#2952](https://github.com/zloom/k9s/pull/2952) A modest attempt to improve the logo aesthetics
+* [#2833](https://github.com/zloom/k9s/pull/2833) allow scaling custom resource
+* [#2799](https://github.com/zloom/k9s/pull/2799) feat(app): add history navigation with [ and ], most recent command with -
+* [#2719](https://github.com/zloom/k9s/pull/2719) fix: stop table header cells from being selectable
+* [#2865](https://github.com/zloom/k9s/pull/2865) Feature/DisableAutoscroll
 
 ---
 

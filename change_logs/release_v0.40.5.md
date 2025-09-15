@@ -39,8 +39,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#3131](https://github.com/derailed/k9s/issues/3131) Singular versions of native Kubernetes resource names no longer work
-* [#3119](https://github.com/derailed/k9s/issues/3119) Custom Views Fail to Load with % in Column Names (with feelings!)
+* [#3131](https://github.com/zloom/k9s/issues/3131) Singular versions of native Kubernetes resource names no longer work
+* [#3119](https://github.com/zloom/k9s/issues/3119) Custom Views Fail to Load with % in Column Names (with feelings!)
 
 ---
 
@@ -48,7 +48,7 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3123](https://github.com/derailed/k9s/pull/3123) update regex to allow '%' and '/' in column names
+* [#3123](https://github.com/zloom/k9s/pull/3123) update regex to allow '%' and '/' in column names
 
 
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

@@ -21,7 +21,7 @@ apps:
 parts:
   build:
     plugin: go
-    source: https://github.com/derailed/k9s
+    source: https://github.com/zloom/k9s
     source-type: git
     source-tag: $SNAPCRAFT_PROJECT_VERSION
     override-build: |

@@ -8,7 +8,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/zloom/k9s/internal/client"
 	"github.com/stretchr/testify/assert"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 )

@@ -23,7 +23,7 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [#3334](https://github.com/derailed/k9s/issues/3334) Watcher failed for events.k8s.io/v1/events -- expecting a meta table but got *unstructured.Unstructure
+* [#3334](https://github.com/zloom/k9s/issues/3334) Watcher failed for events.k8s.io/v1/events -- expecting a meta table but got *unstructured.Unstructure
 
 ---
 
@@ -31,9 +31,9 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3332](https://github.com/derailed/k9s/pull/3332) fix: pre-check for get permissions only on port-forward
-* [#3311](https://github.com/derailed/k9s/pull/3311) Fix concurrent read writes
-* [#3310](https://github.com/derailed/k9s/pull/3310) fix: use full path of date to avoid conflict
+* [#3332](https://github.com/zloom/k9s/pull/3332) fix: pre-check for get permissions only on port-forward
+* [#3311](https://github.com/zloom/k9s/pull/3311) Fix concurrent read writes
+* [#3310](https://github.com/zloom/k9s/pull/3310) fix: use full path of date to avoid conflict
 
 ---
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2025 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

@@ -31,10 +31,10 @@ We've gone thru lots of code revamp/refactor in the v0.50.0, so mileage may vary
 
 ## Resolved Issues
 
-* [#3267](https://github.com/derailed/k9s/issues/3267) Show some output or message when no resources are found
-* [#3266](https://github.com/derailed/k9s/issues/3266) Command alias :dp fails with "no resource meta defined for deployments" error
-* [#3264](https://github.com/derailed/k9s/issues/3264) can't execute get(y) or describe(d) in StorageClass view
-* [#3260](https://github.com/derailed/k9s/issues/3260) yaml view of pod will crash the app (Boom!! cannot deep copy int. (Maybe??)
+* [#3267](https://github.com/zloom/k9s/issues/3267) Show some output or message when no resources are found
+* [#3266](https://github.com/zloom/k9s/issues/3266) Command alias :dp fails with "no resource meta defined for deployments" error
+* [#3264](https://github.com/zloom/k9s/issues/3264) can't execute get(y) or describe(d) in StorageClass view
+* [#3260](https://github.com/zloom/k9s/issues/3260) yaml view of pod will crash the app (Boom!! cannot deep copy int. (Maybe??)
 
 ---
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2025 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

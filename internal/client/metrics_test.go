@@ -6,7 +6,7 @@ package client_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/zloom/k9s/internal/client"
 	"github.com/stretchr/testify/assert"
 	v1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/api/resource"

@@ -9,10 +9,10 @@ import (
 	"log/slog"
 	"strings"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/slogs"
-	"github.com/derailed/k9s/internal/ui"
-	"github.com/derailed/k9s/internal/ui/dialog"
+	"github.com/zloom/k9s/internal/config"
+	"github.com/zloom/k9s/internal/slogs"
+	"github.com/zloom/k9s/internal/ui"
+	"github.com/zloom/k9s/internal/ui/dialog"
 	"github.com/derailed/tcell/v2"
 	"k8s.io/apimachinery/pkg/util/sets"
 )

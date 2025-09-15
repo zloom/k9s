@@ -23,8 +23,8 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [#3459](https://github.com/derailed/k9s/issues/3459) Update the tablewriter dependency + implementation
-* [#3458](https://github.com/derailed/k9s/issues/3458) Unable to switch namespaces with 0.50.8
+* [#3459](https://github.com/zloom/k9s/issues/3459) Update the tablewriter dependency + implementation
+* [#3458](https://github.com/zloom/k9s/issues/3458) Unable to switch namespaces with 0.50.8
 
 ---
 
@@ -32,7 +32,7 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3460](https://github.com/derailed/k9s/pull/3460) update to tablewriter v1 apis
+* [#3460](https://github.com/zloom/k9s/pull/3460) update to tablewriter v1 apis
 
 ---
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2025 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)#

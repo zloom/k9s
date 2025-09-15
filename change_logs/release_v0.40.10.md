@@ -39,7 +39,7 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#3202](https://github.com/derailed/k9s/issues/3202) 0.40.8 breaks plugins loading
+* [#3202](https://github.com/zloom/k9s/issues/3202) 0.40.8 breaks plugins loading
 
 ---
 

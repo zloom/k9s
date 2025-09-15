@@ -7,7 +7,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/derailed/k9s/internal/model1"
+	"github.com/zloom/k9s/internal/model1"
 	"github.com/derailed/tview"
 	"github.com/stretchr/testify/assert"
 )

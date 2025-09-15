@@ -23,9 +23,9 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [#3453](https://github.com/derailed/k9s/issues/3453) [Feature Request] Add GPU column to pod/container view
-* [#3451](https://github.com/derailed/k9s/issues/3451) Weirdness when filtering namespaces
-* [#3439](https://github.com/derailed/k9s/issues/3438) Allow KnownGPUVendors customization
+* [#3453](https://github.com/zloom/k9s/issues/3453) [Feature Request] Add GPU column to pod/container view
+* [#3451](https://github.com/zloom/k9s/issues/3451) Weirdness when filtering namespaces
+* [#3439](https://github.com/zloom/k9s/issues/3438) Allow KnownGPUVendors customization
 
 ---
 
@@ -33,9 +33,9 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3437](https://github.com/derailed/k9s/pull/3437) feat: Add GPU usage to pod view
-* [#3421](https://github.com/derailed/k9s/pull/3421) Fix #3421 - can't switch namespaces in helm view
-* [#3356](https://github.com/derailed/k9s/pull/3356) allow skin to be selected via K9S_SKIN env var
+* [#3437](https://github.com/zloom/k9s/pull/3437) feat: Add GPU usage to pod view
+* [#3421](https://github.com/zloom/k9s/pull/3421) Fix #3421 - can't switch namespaces in helm view
+* [#3356](https://github.com/zloom/k9s/pull/3356) allow skin to be selected via K9S_SKIN env var
 
 ---
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2025 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)#

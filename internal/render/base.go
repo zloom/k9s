@@ -7,9 +7,9 @@ import (
 	"context"
 	"log/slog"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model1"
-	"github.com/derailed/k9s/internal/slogs"
+	"github.com/zloom/k9s/internal/config"
+	"github.com/zloom/k9s/internal/model1"
+	"github.com/zloom/k9s/internal/slogs"
 )
 
 // DecoratorFunc decorates a string.

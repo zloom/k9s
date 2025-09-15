@@ -10,11 +10,11 @@ import (
 	"os"
 	"sync"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config/data"
-	"github.com/derailed/k9s/internal/config/json"
-	"github.com/derailed/k9s/internal/slogs"
-	"github.com/derailed/k9s/internal/view/cmd"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/config/data"
+	"github.com/zloom/k9s/internal/config/json"
+	"github.com/zloom/k9s/internal/slogs"
+	"github.com/zloom/k9s/internal/view/cmd"
 	"gopkg.in/yaml.v3"
 	"k8s.io/apimachinery/pkg/util/sets"
 )

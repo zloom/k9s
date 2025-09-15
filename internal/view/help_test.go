@@ -7,9 +7,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/view"
+	"github.com/zloom/k9s/internal"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/view"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

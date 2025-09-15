@@ -8,8 +8,8 @@ import (
 	"errors"
 	"os"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/zloom/k9s/internal"
+	"github.com/zloom/k9s/internal/render"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 )

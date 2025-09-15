@@ -23,15 +23,15 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [#3435](https://github.com/derailed/k9s/issues/3435) noExitOnCtrlC
-* [#3434](https://github.com/derailed/k9s/issues/3434) Pulses - navigation selection is invisible
-* [#3424](https://github.com/derailed/k9s/issues/3424) feat: Add GPUs to nodes view
-* [#3422](https://github.com/derailed/k9s/issues/3422) Changing ns should keep current kind
-* [#3412](https://github.com/derailed/k9s/issues/3412) "Toggle Decode" for secret has no effect
-* [#3406](https://github.com/derailed/k9s/issues/3406) History navigation: new view after going back should truncate forward history
-* [#3398](https://github.com/derailed/k9s/issues/3398) Improve the UX of FieldManager field on restart
-* [#3383](https://github.com/derailed/k9s/issues/3383) Triggering a CronJob fails as Unauthorized since v0.50
-* [#3406](https://github.com/derailed/k9s/issues/3406) History navigation: new view after going back should truncate forward history
+* [#3435](https://github.com/zloom/k9s/issues/3435) noExitOnCtrlC
+* [#3434](https://github.com/zloom/k9s/issues/3434) Pulses - navigation selection is invisible
+* [#3424](https://github.com/zloom/k9s/issues/3424) feat: Add GPUs to nodes view
+* [#3422](https://github.com/zloom/k9s/issues/3422) Changing ns should keep current kind
+* [#3412](https://github.com/zloom/k9s/issues/3412) "Toggle Decode" for secret has no effect
+* [#3406](https://github.com/zloom/k9s/issues/3406) History navigation: new view after going back should truncate forward history
+* [#3398](https://github.com/zloom/k9s/issues/3398) Improve the UX of FieldManager field on restart
+* [#3383](https://github.com/zloom/k9s/issues/3383) Triggering a CronJob fails as Unauthorized since v0.50
+* [#3406](https://github.com/zloom/k9s/issues/3406) History navigation: new view after going back should truncate forward history
 
 ---
 
@@ -39,10 +39,10 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3433](https://github.com/derailed/k9s/pull/3433) feat(plugins): add kube-metrics plugin
-* [#3371](https://github.com/derailed/k9s/pull/3371) Add context to condition in keda-toggle plugin
-* [#3347](https://github.com/derailed/k9s/pull/3347) Fix GVR Title option in readme
-* [#3346](https://github.com/derailed/k9s/pull/3346) revert: #3322
+* [#3433](https://github.com/zloom/k9s/pull/3433) feat(plugins): add kube-metrics plugin
+* [#3371](https://github.com/zloom/k9s/pull/3371) Add context to condition in keda-toggle plugin
+* [#3347](https://github.com/zloom/k9s/pull/3347) Fix GVR Title option in readme
+* [#3346](https://github.com/zloom/k9s/pull/3346) revert: #3322
 
 
 ---

@@ -6,8 +6,8 @@ package dialog
 import (
 	"context"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/zloom/k9s/internal/config"
+	"github.com/zloom/k9s/internal/ui"
 	"github.com/derailed/tview"
 )
 

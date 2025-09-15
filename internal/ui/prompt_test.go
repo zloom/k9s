@@ -6,9 +6,9 @@ package ui_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/zloom/k9s/internal/config"
+	"github.com/zloom/k9s/internal/model"
+	"github.com/zloom/k9s/internal/ui"
 	"github.com/derailed/tcell/v2"
 	"github.com/stretchr/testify/assert"
 )

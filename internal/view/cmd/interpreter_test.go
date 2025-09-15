@@ -6,7 +6,7 @@ package cmd_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/view/cmd"
+	"github.com/zloom/k9s/internal/view/cmd"
 	"github.com/stretchr/testify/assert"
 )
 

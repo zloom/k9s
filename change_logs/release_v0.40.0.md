@@ -142,10 +142,10 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#3064](https://github.com/derailed/k9s/issues/3064) Question: brew formula k9s vs derailed/k9s/k9s
-* [#3061](https://github.com/derailed/k9s/issues/3061) k9s not opening active namespace or namespace specified via -n
-* [#3044](https://github.com/derailed/k9s/issues/3044) CRDs are loaded incorrectly into metadata registry, cause sporadic "Jump Owner" issues
-* [#2995](https://github.com/derailed/k9s/issues/2995) Latest image on quay.io contains "failed" kubectl binary
+* [#3064](https://github.com/zloom/k9s/issues/3064) Question: brew formula k9s vs derailed/k9s/k9s
+* [#3061](https://github.com/zloom/k9s/issues/3061) k9s not opening active namespace or namespace specified via -n
+* [#3044](https://github.com/zloom/k9s/issues/3044) CRDs are loaded incorrectly into metadata registry, cause sporadic "Jump Owner" issues
+* [#2995](https://github.com/zloom/k9s/issues/2995) Latest image on quay.io contains "failed" kubectl binary
 
 ---
 
@@ -153,24 +153,24 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3065](https://github.com/derailed/k9s/pull/3065) Fixed trimming of favorite namespaces in Config
-* [#3063](https://github.com/derailed/k9s/pull/3063) Updating CVE dependencies
-* [#3062](https://github.com/derailed/k9s/pull/3062) feat: use kubectl events for plugin watch-events
-* [#3060](https://github.com/derailed/k9s/pull/3060) Rename "delete local data" checkbox description in drain dialog
-* [#3046](https://github.com/derailed/k9s/pull/3046) Strict unmarshal for plugin files
-* [#3045](https://github.com/derailed/k9s/pull/3045) fix: CRD loading: trim group suffix from CRD name
-* [#3043](https://github.com/derailed/k9s/pull/3043) Fix K9S_EDITOR
-* [#3041](https://github.com/derailed/k9s/pull/3041) Fix Flux trace plugin command
-* [#3038](https://github.com/derailed/k9s/pull/2038) fix check e != nil but return a nil value error err
-* [#3026](https://github.com/derailed/k9s/pull/3026) Fix typos
-* [#3018](https://github.com/derailed/k9s/pull/3018) fix: coloring of rose-pine for values of log options
-* [#3017](https://github.com/derailed/k9s/pull/3017) feat: add helm diff plugin
-* [#3009](https://github.com/derailed/k9s/pull/3009) fix(argo-rollouts plugin): resolve improper piping in watch command
-* [#2996](https://github.com/derailed/k9s/pull/2996) Bump version of netshoot image in debug-container plugin
-* [#2994](https://github.com/derailed/k9s/pull/2994) fix kubectl url and fail build on download errors
-* [#2986](https://github.com/derailed/k9s/pull/2986) plugin/trace-dns: Trace DNS requests using Inspektor Gadget
-* [#2985](https://github.com/derailed/k9s/pull/2985) feat(plugins/crossplane): change to crossplane cli & add crossplane-watch
-* [#2986](https://github.com/derailed/k9s/pull/2986) plugin/trace-dns: Trace DNS requests using Inspektor Gadget
+* [#3065](https://github.com/zloom/k9s/pull/3065) Fixed trimming of favorite namespaces in Config
+* [#3063](https://github.com/zloom/k9s/pull/3063) Updating CVE dependencies
+* [#3062](https://github.com/zloom/k9s/pull/3062) feat: use kubectl events for plugin watch-events
+* [#3060](https://github.com/zloom/k9s/pull/3060) Rename "delete local data" checkbox description in drain dialog
+* [#3046](https://github.com/zloom/k9s/pull/3046) Strict unmarshal for plugin files
+* [#3045](https://github.com/zloom/k9s/pull/3045) fix: CRD loading: trim group suffix from CRD name
+* [#3043](https://github.com/zloom/k9s/pull/3043) Fix K9S_EDITOR
+* [#3041](https://github.com/zloom/k9s/pull/3041) Fix Flux trace plugin command
+* [#3038](https://github.com/zloom/k9s/pull/2038) fix check e != nil but return a nil value error err
+* [#3026](https://github.com/zloom/k9s/pull/3026) Fix typos
+* [#3018](https://github.com/zloom/k9s/pull/3018) fix: coloring of rose-pine for values of log options
+* [#3017](https://github.com/zloom/k9s/pull/3017) feat: add helm diff plugin
+* [#3009](https://github.com/zloom/k9s/pull/3009) fix(argo-rollouts plugin): resolve improper piping in watch command
+* [#2996](https://github.com/zloom/k9s/pull/2996) Bump version of netshoot image in debug-container plugin
+* [#2994](https://github.com/zloom/k9s/pull/2994) fix kubectl url and fail build on download errors
+* [#2986](https://github.com/zloom/k9s/pull/2986) plugin/trace-dns: Trace DNS requests using Inspektor Gadget
+* [#2985](https://github.com/zloom/k9s/pull/2985) feat(plugins/crossplane): change to crossplane cli & add crossplane-watch
+* [#2986](https://github.com/zloom/k9s/pull/2986) plugin/trace-dns: Trace DNS requests using Inspektor Gadget
 
 ---
 

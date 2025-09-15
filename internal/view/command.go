@@ -12,11 +12,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/slogs"
-	"github.com/derailed/k9s/internal/view/cmd"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/dao"
+	"github.com/zloom/k9s/internal/model"
+	"github.com/zloom/k9s/internal/slogs"
+	"github.com/zloom/k9s/internal/view/cmd"
 	"k8s.io/apimachinery/pkg/labels"
 	"k8s.io/apimachinery/pkg/util/sets"
 )

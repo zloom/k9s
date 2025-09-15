@@ -30,12 +30,12 @@ We've gone thru lots of code revamp/refactor in the v0.50.0, so mileage may vary
 
 ## Resolved Issues
 
-* [#3262](https://github.com/derailed/k9s/issues/3262) Crash when no shellPod is defined in config file
-* [#3261](https://github.com/derailed/k9s/issues/3261) aliases with namespace and/or labels produce an error
-* [#3258](https://github.com/derailed/k9s/issues/3258) mac silicon 0.50.0 runtime error
-* [#3257](https://github.com/derailed/k9s/issues/3257) pods are reported to run on nodes they are not running on
-* [#3256](https://github.com/derailed/k9s/issues/3256) Pods view seems broken in 0.50.0
-* [#3255](https://github.com/derailed/k9s/issues/3255) Custom view does not work randomly
+* [#3262](https://github.com/zloom/k9s/issues/3262) Crash when no shellPod is defined in config file
+* [#3261](https://github.com/zloom/k9s/issues/3261) aliases with namespace and/or labels produce an error
+* [#3258](https://github.com/zloom/k9s/issues/3258) mac silicon 0.50.0 runtime error
+* [#3257](https://github.com/zloom/k9s/issues/3257) pods are reported to run on nodes they are not running on
+* [#3256](https://github.com/zloom/k9s/issues/3256) Pods view seems broken in 0.50.0
+* [#3255](https://github.com/zloom/k9s/issues/3255) Custom view does not work randomly
 
 
 ---

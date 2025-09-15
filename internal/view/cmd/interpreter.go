@@ -6,7 +6,7 @@ package cmd
 import (
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/zloom/k9s/internal/client"
 )
 
 // Interpreter tracks user prompt input.

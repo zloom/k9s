@@ -73,14 +73,14 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#3179](https://github.com/derailed/k9s/issues/3179) Resource name with full api or group displayed (somewhere and sometimes)
-* [#3178](https://github.com/derailed/k9s/issues/3178) Cronjobs with the same name in different namespaces appear together
-* [#3176](https://github.com/derailed/k9s/issues/3176) Trigger all marked cronjobs
-* [#3162](https://github.com/derailed/k9s/issues/3162) Context configs: context directory created under wrong cluster after context switch
-* [#3161](https://github.com/derailed/k9s/issues/3161) Force wide-only columns to appear outside of wide view
-* [#3147](https://github.com/derailed/k9s/issues/3147) Prompt style is overriden by body
-* [#3139](https://github.com/derailed/k9s/issues/3139) CPU/R:L and MEM/R:L columns invalid in views.yaml
-* [#3138](https://github.com/derailed/k9s/issues/3138) Subresources are not shown correctly in the RBAC view
+* [#3179](https://github.com/zloom/k9s/issues/3179) Resource name with full api or group displayed (somewhere and sometimes)
+* [#3178](https://github.com/zloom/k9s/issues/3178) Cronjobs with the same name in different namespaces appear together
+* [#3176](https://github.com/zloom/k9s/issues/3176) Trigger all marked cronjobs
+* [#3162](https://github.com/zloom/k9s/issues/3162) Context configs: context directory created under wrong cluster after context switch
+* [#3161](https://github.com/zloom/k9s/issues/3161) Force wide-only columns to appear outside of wide view
+* [#3147](https://github.com/zloom/k9s/issues/3147) Prompt style is overriden by body
+* [#3139](https://github.com/zloom/k9s/issues/3139) CPU/R:L and MEM/R:L columns invalid in views.yaml
+* [#3138](https://github.com/zloom/k9s/issues/3138) Subresources are not shown correctly in the RBAC view
 
 ---
 
@@ -88,12 +88,12 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3182](https://github.com/derailed/k9s/pull/3182) fix: Use the latest version when downloading the Ubuntu deb file
-* [#3168](https://github.com/derailed/k9s/pull/3168) fix(history): handle cases where special commands add their command their command to the history
-* [#3159](https://github.com/derailed/k9s/pull/3159) Added hard contrast gruvbox skins
-* [#3149](https://github.com/derailed/k9s/pull/3149) fix: Pass grv on gotoResource as a String to fix non-default apiGroup list
-* [#3149](https://github.com/derailed/k9s/pull/3149) Add externalsecrets plugin
-* [#3140](https://github.com/derailed/k9s/pull/3140) fix: Avoid false positive matches in enableRegion (#3093)
+* [#3182](https://github.com/zloom/k9s/pull/3182) fix: Use the latest version when downloading the Ubuntu deb file
+* [#3168](https://github.com/zloom/k9s/pull/3168) fix(history): handle cases where special commands add their command their command to the history
+* [#3159](https://github.com/zloom/k9s/pull/3159) Added hard contrast gruvbox skins
+* [#3149](https://github.com/zloom/k9s/pull/3149) fix: Pass grv on gotoResource as a String to fix non-default apiGroup list
+* [#3149](https://github.com/zloom/k9s/pull/3149) Add externalsecrets plugin
+* [#3140](https://github.com/zloom/k9s/pull/3140) fix: Avoid false positive matches in enableRegion (#3093)
 
 
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2025 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

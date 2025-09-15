@@ -32,10 +32,10 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#3226](https://github.com/derailed/k9s/issues/3226) Filter view will show mess when filtering some string
-* [#3224](https://github.com/derailed/k9s/issues/3224) Respect kubectl.kubernetes.io/default-container annotation
-* [#3222](https://github.com/derailed/k9s/issues/3222) Option to Display Resource Names Without API Version Prefix
-* [#3210](https://github.com/derailed/k9s/issues/3210) Description line is buggy
+* [#3226](https://github.com/zloom/k9s/issues/3226) Filter view will show mess when filtering some string
+* [#3224](https://github.com/zloom/k9s/issues/3224) Respect kubectl.kubernetes.io/default-container annotation
+* [#3222](https://github.com/zloom/k9s/issues/3222) Option to Display Resource Names Without API Version Prefix
+* [#3210](https://github.com/zloom/k9s/issues/3210) Description line is buggy
 
 ---
 
@@ -43,9 +43,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3237](https://github.com/derailed/k9s/pull/3237) fix: List CRDs which has k8s.io in their names
-* [#3223](https://github.com/derailed/k9s/pull/3223) Fixed skin config ref of in_the_navy to in-the-navy
-* [#3110](https://github.com/derailed/k9s/pull/3110) feat: add splashless option to suppress splash screen on start
+* [#3237](https://github.com/zloom/k9s/pull/3237) fix: List CRDs which has k8s.io in their names
+* [#3223](https://github.com/zloom/k9s/pull/3223) Fixed skin config ref of in_the_navy to in-the-navy
+* [#3110](https://github.com/zloom/k9s/pull/3110) feat: add splashless option to suppress splash screen on start
 
 ---
 

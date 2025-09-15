@@ -8,10 +8,10 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model1"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/config"
+	"github.com/zloom/k9s/internal/model1"
+	"github.com/zloom/k9s/internal/render"
 )
 
 // History renders a History chart to screen.

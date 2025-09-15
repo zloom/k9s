@@ -8,8 +8,8 @@ import (
 	"log/slog"
 	"testing"
 
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/view/cmd"
+	"github.com/zloom/k9s/internal/model"
+	"github.com/zloom/k9s/internal/view/cmd"
 	"github.com/derailed/tcell/v2"
 	"github.com/derailed/tview"
 	"github.com/stretchr/testify/assert"

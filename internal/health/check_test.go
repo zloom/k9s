@@ -6,8 +6,8 @@ package health_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/health"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/health"
 	"github.com/stretchr/testify/assert"
 )
 

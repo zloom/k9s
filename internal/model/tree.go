@@ -12,12 +12,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/slogs"
-	"github.com/derailed/k9s/internal/xray"
+	"github.com/zloom/k9s/internal"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/dao"
+	"github.com/zloom/k9s/internal/render"
+	"github.com/zloom/k9s/internal/slogs"
+	"github.com/zloom/k9s/internal/xray"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 )

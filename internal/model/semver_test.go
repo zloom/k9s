@@ -6,7 +6,7 @@ package model_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/model"
+	"github.com/zloom/k9s/internal/model"
 	"github.com/stretchr/testify/assert"
 )
 

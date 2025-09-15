@@ -4,8 +4,8 @@
 package view
 
 import (
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/ui"
 )
 
 // CRD represents a crd viewer.

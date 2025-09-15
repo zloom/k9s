@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/derailed/k9s/internal/config/mock"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/zloom/k9s/internal/config/mock"
+	"github.com/zloom/k9s/internal/model"
+	"github.com/zloom/k9s/internal/ui"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -7,9 +7,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/xray"
+	"github.com/zloom/k9s/internal"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/xray"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"k8s.io/apimachinery/pkg/runtime"

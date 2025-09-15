@@ -33,13 +33,13 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2970](https://github.com/derailed/k9s/issues/2970) Ctrl-z on events view causes runtime error in v0.32.6
-* [#2969](https://github.com/derailed/k9s/issues/2969) When using impersonation user information and permissions not preserved when switching context
-* [#2966](https://github.com/derailed/k9s/issues/2966) Go to the Contexts page and filter, contexts that are matched will be filtered ou
-* [#2962](https://github.com/derailed/k9s/issues/2962) Small colour/filtering related bug
-* [#2961](https://github.com/derailed/k9s/issues/2961) Drain node with the -disable-eviction
-* [#2958](https://github.com/derailed/k9s/issues/2958) Restart count in container view associated with the wrong container
-* [#2945](https://github.com/derailed/k9s/issues/2945) Could we add ServiceAccount Column in v1/POD view
+* [#2970](https://github.com/zloom/k9s/issues/2970) Ctrl-z on events view causes runtime error in v0.32.6
+* [#2969](https://github.com/zloom/k9s/issues/2969) When using impersonation user information and permissions not preserved when switching context
+* [#2966](https://github.com/zloom/k9s/issues/2966) Go to the Contexts page and filter, contexts that are matched will be filtered ou
+* [#2962](https://github.com/zloom/k9s/issues/2962) Small colour/filtering related bug
+* [#2961](https://github.com/zloom/k9s/issues/2961) Drain node with the -disable-eviction
+* [#2958](https://github.com/zloom/k9s/issues/2958) Restart count in container view associated with the wrong container
+* [#2945](https://github.com/zloom/k9s/issues/2945) Could we add ServiceAccount Column in v1/POD view
 
 ---
 
@@ -47,9 +47,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2968](https://github.com/derailed/k9s/pull/2968) Update go version to 1.23.X in README
-* [#2964](https://github.com/derailed/k9s/pull/2964) feat(dao,used-by-cmd): check imagePullSecrets as well
-* [#2960](https://github.com/derailed/k9s/pull/2960) Put log levels in order in cmd help
+* [#2968](https://github.com/zloom/k9s/pull/2968) Update go version to 1.23.X in README
+* [#2964](https://github.com/zloom/k9s/pull/2964) feat(dao,used-by-cmd): check imagePullSecrets as well
+* [#2960](https://github.com/zloom/k9s/pull/2960) Put log levels in order in cmd help
 
 ---
 

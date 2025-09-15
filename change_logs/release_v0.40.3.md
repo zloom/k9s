@@ -39,7 +39,7 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#3116](https://github.com/derailed/k9s/issues/3116) Cannot list custom CRD's since v0.40.1 (with feelings!)
+* [#3116](https://github.com/zloom/k9s/issues/3116) Cannot list custom CRD's since v0.40.1 (with feelings!)
 
 ---
 

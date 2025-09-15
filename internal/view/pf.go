@@ -10,14 +10,14 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/perf"
-	"github.com/derailed/k9s/internal/slogs"
-	"github.com/derailed/k9s/internal/ui"
-	"github.com/derailed/k9s/internal/ui/dialog"
+	"github.com/zloom/k9s/internal"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/dao"
+	"github.com/zloom/k9s/internal/model"
+	"github.com/zloom/k9s/internal/perf"
+	"github.com/zloom/k9s/internal/slogs"
+	"github.com/zloom/k9s/internal/ui"
+	"github.com/zloom/k9s/internal/ui/dialog"
 	"github.com/derailed/tcell/v2"
 )
 

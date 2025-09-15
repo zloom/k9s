@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/dao"
 	"github.com/derailed/tview"
 	"github.com/stretchr/testify/assert"
 )

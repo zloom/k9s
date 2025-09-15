@@ -6,8 +6,8 @@ package render
 import (
 	"fmt"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/model1"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/model1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 )
 

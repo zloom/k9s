@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/derailed/k9s/internal"
+	"github.com/zloom/k9s/internal"
 	"github.com/sahilm/fuzzy"
 )
 

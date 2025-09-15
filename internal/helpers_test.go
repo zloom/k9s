@@ -6,7 +6,7 @@ package internal_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal"
+	"github.com/zloom/k9s/internal"
 	"github.com/stretchr/testify/assert"
 )
 

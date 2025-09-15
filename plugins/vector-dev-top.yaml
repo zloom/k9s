@@ -14,7 +14,7 @@ plugins:
     command: sh
     background: false
     args:
-      # Both works. I have not read through https://github.com/derailed/k9s/issues/1852 yet.
+      # Both works. I have not read through https://github.com/zloom/k9s/issues/1852 yet.
       # - -ic
       - -c
       - "kubectl exec --context=$CONTEXT --namespace=$NAMESPACE --stdin --tty $NAME -- vector top"

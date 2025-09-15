@@ -30,8 +30,8 @@ A bit more code spring cleaning/TLC and address a few bugs:
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3273](https://github.com/derailed/k9s/pull/3273) k9s plugin scopes containers issue
-* [#3169](https://github.com/derailed/k9s/pull/3169) feat: pass context and token flags to kubectl exec commands
+* [#3273](https://github.com/zloom/k9s/pull/3273) k9s plugin scopes containers issue
+* [#3169](https://github.com/zloom/k9s/pull/3169) feat: pass context and token flags to kubectl exec commands
 
 
 ---

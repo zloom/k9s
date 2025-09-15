@@ -14,9 +14,9 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config/data"
-	"github.com/derailed/k9s/internal/slogs"
+	"github.com/zloom/k9s/internal/client"
+	"github.com/zloom/k9s/internal/config/data"
+	"github.com/zloom/k9s/internal/slogs"
 )
 
 type gpuVendors map[string]string

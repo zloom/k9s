@@ -32,9 +32,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#3193](https://github.com/derailed/k9s/issues/3193) Feature Request: View aliases with custom columns
-* [#3192](https://github.com/derailed/k9s/issues/3192) Allow readonly indicator respect the noIcons configuration
-* [#3153](https://github.com/derailed/k9s/issues/3153) Add support for bunyan logging
+* [#3193](https://github.com/zloom/k9s/issues/3193) Feature Request: View aliases with custom columns
+* [#3192](https://github.com/zloom/k9s/issues/3192) Allow readonly indicator respect the noIcons configuration
+* [#3153](https://github.com/zloom/k9s/issues/3153) Add support for bunyan logging
 
 ---
 
@@ -42,7 +42,7 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#3186](https://github.com/derailed/k9s/pull/3186) fix: allow absolute paths for the 'dir' command
-* [#3152](https://github.com/derailed/k9s/pull/3152) Feat: Add plugin support for parsing logs with bunyan cli #3153
+* [#3186](https://github.com/zloom/k9s/pull/3186) fix: allow absolute paths for the 'dir' command
+* [#3152](https://github.com/zloom/k9s/pull/3152) Feat: Add plugin support for parsing logs with bunyan cli #3153
 
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2025 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

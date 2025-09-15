@@ -6,7 +6,7 @@ package color_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/color"
+	"github.com/zloom/k9s/internal/color"
 	"github.com/stretchr/testify/assert"
 )
 

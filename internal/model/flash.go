@@ -9,7 +9,7 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/derailed/k9s/internal/slogs"
+	"github.com/zloom/k9s/internal/slogs"
 )
 
 const (
