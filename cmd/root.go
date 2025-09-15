@@ -42,7 +42,7 @@ var (
 		Use:   appName,
 		Short: shortAppDesc,
 		Long:  longAppDesc,
-		RunE:  run,
+		RunE:  Run,
 	}
 
 	out = colorable.NewColorableStdout()
@@ -75,7 +75,7 @@ func Execute() {
 	}
 }
 
-func run(*cobra.Command, []string) error {
+func Run(*cobra.Command, []string) error {
 	if err := config.InitLocs(); err != nil {
 		return err
 	}
